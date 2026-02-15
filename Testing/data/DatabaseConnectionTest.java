@@ -1,6 +1,9 @@
-package dal;
+package data;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import dal.DatabaseConnection;
+
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Modifier;
