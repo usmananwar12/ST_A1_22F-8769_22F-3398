@@ -1,6 +1,9 @@
-package dal;
+package data;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import dal.HashCalculator;
+
 
 import java.util.HashMap;
 import java.util.Map;
