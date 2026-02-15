@@ -33,6 +33,13 @@ public class DatabaseConnection {
         } catch (IOException | SQLException e) {
             e.printStackTrace();
             LOGGER.error(e.getMessage());
+            javax.swing.JOptionPane.showMessageDialog(null, 
+                "Failed to connect to the database.\n" +
+                "Please check your settings in config.properties.\n\n" +
+                "Error: " + e.getMessage(),
+                "Database Connection Error",
+                javax.swing.JOptionPane.ERROR_MESSAGE);
+            System.exit(1);
         }
     }
 
