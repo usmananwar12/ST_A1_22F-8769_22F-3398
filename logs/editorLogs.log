@@ -39,3 +39,5 @@
 2026-02-15 15:13:04.256 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
 2026-02-15 15:13:22.194 [Thread-0] INFO  pl.EditorPO - ass4,q4.docx failed to upload!
 2026-02-15 15:13:51.758 [Thread-1] INFO  pl.EditorPO - index.html failed to upload!
+2026-02-15 17:15:29.474 [main] ERROR pl.EditorPO - DB Connection Failed
+2026-02-15 17:15:29.483 [main] ERROR pl.EditorPO - Filename cannot be null
