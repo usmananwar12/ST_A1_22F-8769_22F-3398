@@ -20,3 +20,22 @@
 2024-12-10 21:25:27.599 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
 2024-12-10 21:25:40.338 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'surah falaq.txt' is: 0.009627044174443686
 2024-12-10 21:25:45.280 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'quran-simple.txt' is: 0.014417461355646866
+2026-02-15 02:33:12.167 [main] ERROR pl.EditorPO - Socket fail to connect to address=(host=localhost)(port=3306)(type=primary). Connection refused: connect
+2026-02-15 02:33:57.613 [Thread-0] INFO  pl.EditorPO - 4JJMX6.pdf failed to upload!
+2026-02-15 02:34:22.743 [AWT-EventQueue-0] ERROR pl.EditorPO - null
+2026-02-15 02:34:24.815 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-15 02:36:16.415 [main] ERROR pl.EditorPO - Socket fail to connect to address=(host=localhost)(port=3306)(type=primary). Connection refused: connect
+2026-02-15 02:36:28.134 [AWT-EventQueue-0] ERROR pl.EditorPO - null
+2026-02-15 02:36:29.570 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-15 14:35:20.570 [main] ERROR pl.EditorPO - (conn=3) Unknown database 'realeditor'
+2026-02-15 14:35:32.846 [AWT-EventQueue-0] ERROR pl.EditorPO - null
+2026-02-15 14:35:34.649 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-15 14:38:29.805 [AWT-EventQueue-0] ERROR pl.EditorPO - null
+2026-02-15 14:38:31.328 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-15 14:39:08.431 [main] ERROR pl.EditorPO - (conn=5) Unknown database 'realeditor'
+2026-02-15 15:03:49.090 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=8) Table 'realeditor.files' doesn't exist
+2026-02-15 15:03:50.043 [AWT-EventQueue-0] INFO  pl.EditorPO - File creation failed!
+2026-02-15 15:03:50.079 [AWT-EventQueue-0] ERROR pl.EditorPO - (conn=8) Table 'realeditor.files' doesn't exist
+2026-02-15 15:13:04.256 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-15 15:13:22.194 [Thread-0] INFO  pl.EditorPO - ass4,q4.docx failed to upload!
+2026-02-15 15:13:51.758 [Thread-1] INFO  pl.EditorPO - index.html failed to upload!
